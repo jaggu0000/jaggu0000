@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sreejagan T</h1>
+<h1 align="center">Hi 👋, I'm Jagan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaggu0000&label=Profile%20views&color=000000&style=flat" alt="jaggu0000" /> </p>
